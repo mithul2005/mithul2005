@@ -3,7 +3,7 @@
 <h3 align="center">As a passionate Front-End Developer, I focus on building clean, responsive, and user-friendly web interfaces. I enjoy turning ideas into visually appealing digital experiences using modern web technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mithul2005&label=Profile%20views&color=0e75b6&style=flat" alt="mithul2005" /> </p>
-
+<h1>About Me</h1>
 
 - 🔭 I’m currently working on **movie website**
 
