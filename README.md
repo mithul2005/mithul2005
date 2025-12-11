@@ -8,7 +8,7 @@
 ## 👨‍💻 About Me
 
 <p>
-I'm <b>Mithul V</b> - a passionate Front-End Developer dedicated to building clean, responsive, and user-friendly web interfaces. I enjoy transforming ideas into interactive digital experiences using modern web technologies like HTML, CSS, and JavaScript. I’m constantly learning, improving my skills, and exploring new tools to create better and more engaging websites. My goal is to craft visually appealing designs with smooth functionality and deliver meaningful user experiences through code.
+I'm <b>Mithul V</b> a Full Stack Developer with a strong interest in building dynamic, user-friendly, and scalable web applications. I enjoy working on both the frontend and backend, creating seamless experiences from design to deployment. My focus is on writing clean, maintainable code while continuously learning new frameworks and technologies. I’m passionate about solving real-world problems through technology and collaborating on impactful projects.
 </p>
 
 - 🔭 Currently working on [*MyCampus*](https://my-campus3-0.vercel.app/)
