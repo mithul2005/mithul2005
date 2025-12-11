@@ -1,7 +1,7 @@
 <!-- Header -->
-<p >
-  <h1>Mithul V </h1>
-</p>
+<div align = "center">
+  <h1>Mithul V <br> Full Stack Developer</h1>
+</div>
 
 
 
@@ -11,7 +11,6 @@
 I'm <b>Mithul V</b> a Full Stack Developer with a strong interest in building dynamic, user-friendly, and scalable web applications. I enjoy working on both the frontend and backend, creating seamless experiences from design to deployment. My focus is on writing clean, maintainable code while continuously learning new frameworks and technologies. I’m passionate about solving real-world problems through technology and collaborating on impactful projects.
 </p>
 
-- 🔭 Currently working on [*MyCampus*](https://my-campus3-0.vercel.app/)
 - 🌱 Learning: java script,react and modern web development
 - 💡 Interests: Web Development, Open Source
 - 📫 Connect: [*LinkedIn*](https://www.linkedin.com/in/mithul-varadharajan-2a356b292)
